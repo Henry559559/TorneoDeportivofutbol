@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6413df4c16c768d43c00d767"
+  },
+  "nombre": "Lionel Messi",
+  "edad": 34,
+  "posicion": "Delantero",
+  "equipo": "Paris Saint-Germain"
+},{
+  "_id": {
+    "$oid": "6413df4c16c768d43c00d768"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "edad": 36,
+  "posicion": "Delantero",
+  "equipo": "Manchester United"
+},{
+  "_id": {
+    "$oid": "6413df4c16c768d43c00d769"
+  },
+  "nombre": "Neymar Jr.",
+  "edad": 29,
+  "posicion": "Delantero",
+  "equipo": "Paris Saint-Germain"
+},{
+  "_id": {
+    "$oid": "6413df4c16c768d43c00d76a"
+  },
+  "nombre": "Kevin De Bruyne",
+  "edad": 30,
+  "posicion": "Centrocampista",
+  "equipo": "Manchester City"
+},{
+  "_id": {
+    "$oid": "6413df4c16c768d43c00d76b"
+  },
+  "nombre": "Kylian Mbappé",
+  "edad": 23,
+  "posicion": "Delantero",
+  "equipo": "Paris Saint-Germain"
+},{
+  "_id": {
+    "$oid": "6413df4c16c768d43c00d76c"
+  },
+  "nombre": "Virgil van Dijk",
+  "edad": 30,
+  "posicion": "Defensa",
+  "equipo": "Liverpool"
+}]

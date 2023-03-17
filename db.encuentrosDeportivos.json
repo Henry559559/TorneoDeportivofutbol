@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d77c"
+  },
+  "equipoLocal": "Barcelona",
+  "equipoVisitante": "Real Madrid",
+  "fecha": "2023-04-01",
+  "arbitro": "Michael Oliver"
+},{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d77d"
+  },
+  "equipoLocal": "Manchester City",
+  "equipoVisitante": "Liverpool",
+  "fecha": "2023-04-01",
+  "arbitro": "Felix Brych"
+},{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d77e"
+  },
+  "equipoLocal": "Paris Saint-Germain",
+  "equipoVisitante": "Barcelona",
+  "fecha": "2023-04-02",
+  "arbitro": "Cuneyt Cakir"
+},{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d77f"
+  },
+  "equipoLocal": "Real Madrid",
+  "equipoVisitante": "Chelsea",
+  "fecha": "2023-04-02",
+  "arbitro": "Michael Oliver"
+},{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d780"
+  },
+  "equipoLocal": "Liverpool",
+  "equipoVisitante": "Tottenham Hotspur",
+  "fecha": "2023-04-03",
+  "arbitro": "Felix Brych"
+},{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d781"
+  },
+  "equipoLocal": "Atlético Madrid",
+  "equipoVisitante": "Manchester City",
+  "fecha": "2023-04-03",
+  "arbitro": "Cuneyt Cakir"
+},{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d782"
+  },
+  "equipoLocal": "Barcelona",
+  "equipoVisitante": "Chelsea",
+  "fecha": "2023-04-04",
+  "arbitro": "Michael Oliver"
+},{
+  "_id": {
+    "$oid": "6413e02316c768d43c00d783"
+  },
+  "equipoLocal": "Tottenham Hotspur",
+  "equipoVisitante": "Paris Saint-Germain",
+  "fecha": "2023-04-04",
+  "arbitro": "Felix Brych"
+}]

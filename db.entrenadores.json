@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6413df8516c768d43c00d76f"
+  },
+  "nombre": "Pep Guardiola",
+  "edad": 50,
+  "equipo": "Manchester City"
+},{
+  "_id": {
+    "$oid": "6413df8516c768d43c00d770"
+  },
+  "nombre": "Jurgen Klopp",
+  "edad": 54,
+  "equipo": "Liverpool"
+},{
+  "_id": {
+    "$oid": "6413df8516c768d43c00d771"
+  },
+  "nombre": "Mauricio Pochettino",
+  "edad": 49,
+  "equipo": "Paris Saint-Germain"
+},{
+  "_id": {
+    "$oid": "6413df8516c768d43c00d772"
+  },
+  "nombre": "Thomas Tuchel",
+  "edad": 48,
+  "equipo": "Chelsea"
+},{
+  "_id": {
+    "$oid": "6413df8516c768d43c00d773"
+  },
+  "nombre": "Zinedine Zidane",
+  "edad": 49,
+  "equipo": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "6413df8516c768d43c00d774"
+  },
+  "nombre": "Ronald Koeman",
+  "edad": 58,
+  "equipo": "Barcelona"
+}]

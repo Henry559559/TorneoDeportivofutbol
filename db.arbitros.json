@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6413dfae16c768d43c00d777"
+  },
+  "nombre": "Michael Oliver",
+  "edad": 36,
+  "nacionalidad": "Inglaterra"
+},{
+  "_id": {
+    "$oid": "6413dfae16c768d43c00d778"
+  },
+  "nombre": "Felix Brych",
+  "edad": 46,
+  "nacionalidad": "Alemania"
+},{
+  "_id": {
+    "$oid": "6413dfae16c768d43c00d779"
+  },
+  "nombre": "Cuneyt Cakir",
+  "edad": 45,
+  "nacionalidad": "Turquía"
+}]

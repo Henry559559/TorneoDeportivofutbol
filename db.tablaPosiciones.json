@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d790"
+  },
+  "equipo": "Barcelona",
+  "puntos": 4,
+  "partidosJugados": 2,
+  "partidosGanados": 1,
+  "partidosEmpatados": 1,
+  "partidosPerdidos": 0,
+  "golesAFavor": 3,
+  "golesEnContra": 2
+},{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d791"
+  },
+  "equipo": "Chelsea",
+  "puntos": 4,
+  "partidosJugados": 2,
+  "partidosGanados": 1,
+  "partidosEmpatados": 1,
+  "partidosPerdidos": 0,
+  "golesAFavor": 2,
+  "golesEnContra": 1
+},{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d792"
+  },
+  "equipo": "Paris Saint-Germain",
+  "puntos": 4,
+  "partidosJugados": 2,
+  "partidosGanados": 1,
+  "partidosEmpatados": 1,
+  "partidosPerdidos": 0,
+  "golesAFavor": 4,
+  "golesEnContra": 2
+},{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d793"
+  },
+  "equipo": "Liverpool",
+  "puntos": 2,
+  "partidosJugados": 2,
+  "partidosGanados": 0,
+  "partidosEmpatados": 2,
+  "partidosPerdidos": 0,
+  "golesAFavor": 1,
+  "golesEnContra": 1
+},{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d794"
+  },
+  "equipo": "Manchester City",
+  "puntos": 1,
+  "partidosJugados": 2,
+  "partidosGanados": 0,
+  "partidosEmpatados": 1,
+  "partidosPerdidos": 1,
+  "golesAFavor": 2,
+  "golesEnContra": 3
+},{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d795"
+  },
+  "equipo": "Tottenham Hotspur",
+  "puntos": 1,
+  "partidosJugados": 2,
+  "partidosGanados": 0,
+  "partidosEmpatados": 1,
+  "partidosPerdidos": 1,
+  "golesAFavor": 0,
+  "golesEnContra": 1
+},{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d796"
+  },
+  "equipo": "Real Madrid",
+  "puntos": 0,
+  "partidosJugados": 2,
+  "partidosGanados": 0,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 2,
+  "golesAFavor": 1,
+  "golesEnContra": 3
+},{
+  "_id": {
+    "$oid": "6413e10c16c768d43c00d797"
+  },
+  "equipo": "Atlético Madrid",
+  "puntos": 0,
+  "partidosJugados": 2,
+  "partidosGanados": 0,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 2,
+  "golesAFavor": 0,
+  "golesEnContra": 2
+}]

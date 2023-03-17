@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d786"
+  },
+  "encuentro": "Barcelona vs. Real Madrid",
+  "golesLocal": 2,
+  "golesVisitante": 1
+},{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d787"
+  },
+  "encuentro": "Manchester City vs. Liverpool",
+  "golesLocal": 1,
+  "golesVisitante": 1
+},{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d788"
+  },
+  "encuentro": "Paris Saint-Germain vs. Barcelona",
+  "golesLocal": 3,
+  "golesVisitante": 1
+},{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d789"
+  },
+  "encuentro": "Real Madrid vs. Chelsea",
+  "golesLocal": 0,
+  "golesVisitante": 1
+},{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d78a"
+  },
+  "encuentro": "Liverpool vs. Tottenham Hotspur",
+  "golesLocal": 0,
+  "golesVisitante": 0
+},{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d78b"
+  },
+  "encuentro": "Atlético Madrid vs. Manchester City",
+  "golesLocal": 0,
+  "golesVisitante": 2
+},{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d78c"
+  },
+  "encuentro": "Barcelona vs. Chelsea",
+  "golesLocal": 1,
+  "golesVisitante": 1
+},{
+  "_id": {
+    "$oid": "6413e09616c768d43c00d78d"
+  },
+  "encuentro": "Tottenham Hotspur vs. Paris Saint-Germain",
+  "golesLocal": 0,
+  "golesVisitante": 1
+}]
